@@ -31,7 +31,7 @@ echo
 echo
 gem install lolcat
 apt install php -y
-apt install openssl -y
+apt install openssh -y
 clear
 echo
 echo
