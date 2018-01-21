@@ -32,6 +32,7 @@ echo
 gem install lolcat
 apt install php -y
 apt install openssh -y
+apt install termux-api php
 clear
 echo
 echo
